@@ -1,6 +1,6 @@
 # Nathan A. Hobbs
 
-Welcome! I'm Nathan, a tech-savvy professional with a background in web development and a growing focus on IT systems, technical support, and digital workflows. This repository is a central hub for my most relevant work—spanning automation scripts, identity management labs, and data-driven web audits.
+Welcome! I'm Nathan, a versatile technology professional with a background in web development and a growing focus on IT systems, technical support, and digital workflows. This repository is a central hub for my most relevant work—spanning automation scripts, identity management labs, and data-driven web audits.
 
 ---
 
