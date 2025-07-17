@@ -46,7 +46,7 @@ Git & GitHub · Adobe Creative Suite · Project Management Tools · LLMs & autom
 
 - **Email:** [nahobbs5@gmail.com](mailto:nahobbs5@gmail.com) 
 - **LinkedIn:** [https://linkedin.com/in/nathanahobbs](https://linkedin.com/in/nathanahobbs)  
-- **Portfolio:**[https://nathanhobbsportfolio.com/](https://nathanhobbsportfolio.com/)
+- **Portfolio:** [https://nathanhobbsportfolio.com/](https://nathanhobbsportfolio.com/)
 
 
 
