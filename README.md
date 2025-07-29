@@ -9,7 +9,7 @@ Welcome! I'm Nathan, a versatile technology professional with a background in we
 - 🧰 **IT Support & Systems** – Troubleshooting, software configuration, light scripting
 - 🌐 **Web & SEO** – WordPress, HTML/CSS, Elementor, technical audits, analytics tools
 - 📊 **Data Visualization & Automation** – Flourish, PowerShell, Bash, content generation using LLMs
-- 📍 Based in Fredericksburg, VA | 🎓 B.S. Media Arts & Design from James Madison University | 🖥️ CompTIA A+ Certified
+- 📍 Based in Fredericksburg, VA | 🎓 B.S. Media Arts & Design from James Madison University | 🖥️ CompTIA A+, Security+ Certified
 
 ---
 
@@ -29,10 +29,10 @@ An SEO and performance audit of a community music school’s website using Unlig
 ## 🧠 Skills & Tools
 
 **IT/Systems:**  
-Google Workspace · Microsoft Entra ID · PowerShell · CompTIA A+ · Basic Networking
+Google Workspace · Microsoft Entra ID · PowerShell · Basic Networking
 
 **Web & Design:**  
-HTML/CSS · JavaScript · WordPress · Elementor ·  · Semrush
+HTML/CSS · JavaScript · WordPress · Elementor · Semrush
 
 **Data & Visualization:**  
 Flourish · Google Analytics · Excel · Canva · Semrush · SQL (basic)
