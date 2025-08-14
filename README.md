@@ -9,7 +9,8 @@ Welcome! I'm Nathan, a versatile technology professional with a background in we
 - 🧰 **IT Support & Systems** – Troubleshooting, software configuration, light scripting
 - 🌐 **Web & SEO** – WordPress, HTML/CSS, Elementor, technical audits, analytics tools
 - 📊 **Data Visualization & Automation** – Flourish, PowerShell, Bash, content generation using LLMs
-- 📍 Based in Fredericksburg, VA | 🎓 B.S. Media Arts & Design from James Madison University | 🖥️ CompTIA A+, Security+, Network+ Certified
+- 📍 Based in Fredericksburg, VA | 🎓 B.S. Media Arts & Design from James Madison University
+- 🖥️ CompTIA A+, Security+, Network+ Certified
 
 ---
 
