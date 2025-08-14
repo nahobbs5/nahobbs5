@@ -16,7 +16,7 @@ Welcome! I'm Nathan, a versatile technology professional with a background in we
 
 ## 📌 Featured Repositories
 
-### [azure-active-directory-demo](https://github.com/nahobbs5/azure-active-directory-demo)
+### [azure-active-directory-demo](https://github.com/nahobbs5/AzureActiveDirectoryDemo)
 A step-by-step walkthrough for setting up an Active Directory environment in Microsoft Azure using virtual machines and a virtual network.
 
 ### [tech-support-toolbox](https://github.com/nahobbs5/tech-support-toolbox)
