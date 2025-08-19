@@ -10,7 +10,7 @@ Welcome! I'm Nathan, a versatile technology professional with a background in we
 - 🌐 **Web & SEO** – WordPress, HTML/CSS, Elementor, technical audits, analytics tools
 - 📊 **Data Visualization & Automation** – Flourish, PowerShell, Bash, content generation using LLMs
 - 📍 Based in Fredericksburg, VA | 🎓 B.S. Media Arts & Design from James Madison University
-- 🖥️ CompTIA A+, Security+, Network+ Certified
+- 🖥️ CompTIA A+, Security+, Network+, Microsoft AZ-900 Certified
 
 ---
 
@@ -18,6 +18,9 @@ Welcome! I'm Nathan, a versatile technology professional with a background in we
 
 ### [azure-active-directory-demo](https://github.com/nahobbs5/AzureActiveDirectoryDemo)
 A step-by-step walkthrough for setting up an Active Directory environment in Microsoft Azure using virtual machines and a virtual network.
+
+### [7-Zip-group-policy-deployment](https://github.com/nahobbs5/7-Zip-group-policy-deployment)
+Example of using Group Policy Objects (GPOs) for software distribution, demonstrated with a 7-Zip MSI installer.
 
 ### [tech-support-toolbox](https://github.com/nahobbs5/tech-support-toolbox)
 A collection of PowerShell and Bash scripts to streamline common IT support tasks such as user access, printer issues, and system cleanup.
