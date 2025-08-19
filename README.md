@@ -22,11 +22,11 @@ A step-by-step walkthrough for setting up an Active Directory environment in Mic
 ### [7-Zip-group-policy-deployment](https://github.com/nahobbs5/7-Zip-group-policy-deployment)
 Example of using Group Policy Objects (GPOs) for software distribution, demonstrated with a 7-Zip MSI installer.
 
-### [tech-support-toolbox](https://github.com/nahobbs5/tech-support-toolbox)
-A collection of PowerShell and Bash scripts to streamline common IT support tasks such as user access, printer issues, and system cleanup.
-
 ### [entra-id-cloud-lab](https://github.com/nahobbs5/entra-id-cloud-lab)
 A hands-on lab environment built with Microsoft Entra ID (Azure AD) to explore identity and access management—covering SSO, MFA, and group-based administration.
+
+### [tech-support-toolbox](https://github.com/nahobbs5/tech-support-toolbox)
+A collection of PowerShell and Bash scripts to streamline common IT support tasks such as user access, printer issues, and system cleanup.
 
 ### [ncmc.net-web-stats](https://github.com/nahobbs5/ncmc.net-web-stats)
 An SEO and performance audit of a community music school’s website using Unlighthouse. Focused on accessibility, mobile performance, and semantic structure.
