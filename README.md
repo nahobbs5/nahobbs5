@@ -16,7 +16,7 @@ Welcome! I'm Nathan, a versatile technology professional with a background in we
 
 ## 📌 Featured Repositories
 
-### [Power BI Dashboard](2025-North-American-Contract-Glaziers-Power-BI-Dashboard)
+### [Power BI Dashboard](https://github.com/nahobbs5/2025-North-American-Contract-Glaziers-Power-BI-Dashboard))
 An interactive business intelligence dashboard built in Microsoft Power BI, visualizing **USG**lass Magazine's annual rankings of the 50 largest contract glazing companies in North America.
 
 ### [azure-active-directory-demo](https://github.com/nahobbs5/AzureActiveDirectoryDemo)
