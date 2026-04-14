@@ -9,12 +9,15 @@ Welcome! I'm Nathan, a versatile technology professional with a background in we
 - 🧰 **IT Support & Systems** – Troubleshooting, software configuration, light scripting
 - 🌐 **Web & SEO** – WordPress, HTML/CSS, Elementor, technical audits, analytics tools
 - 📊 **Data Visualization & Automation** – Flourish, PowerShell, Bash, content generation using LLMs
-- 📍 Based in Fredericksburg, VA | 🎓 B.S. Media Arts & Design from James Madison University
+- 📍 Based in Fredericksburg, VA | 🎓 B.S. Media Arts & Design (Web Development) from James Madison University
 - 🖥️ CompTIA A+, Security+, Network+, Microsoft AZ-900 Certified
 
 ---
 
 ## 📌 Featured Repositories
+
+### [Kitchen Helper](https://github.com/nahobbs5/Kitchen-Helper)
+Cross-platform app prototype for kitchen tasks built with Expo, React Native, TypeScript, and Expo Router. Focuses on practical utilities including recipe scaling, substitutions, conversions, saved recipe browsing and editing, glossary/reference lookups, and cook timers. 
 
 ### [Power BI Dashboard](https://github.com/nahobbs5/2025-North-American-Contract-Glaziers-Power-BI-Dashboard)
 An interactive business intelligence dashboard built in Microsoft Power BI, visualizing **USG**lass Magazine's annual rankings of the 50 largest contract glazing companies in North America.
