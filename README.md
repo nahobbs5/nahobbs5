@@ -1,6 +1,6 @@
 # Nathan A. Hobbs
 
-Welcome! I'm Nathan, a versatile technology professional with a background in web development and a growing focus on IT systems, technical support, and digital workflows. This repository is a central hub for my most relevant work—spanning automation scripts, identity management labs, and data-driven web audits.
+Welcome! I'm Nathan, a technology professional with a background in web development, data visualization, and technical documentation. This repository is a central hub for my most relevant work — spanning process documentation, identity management labs, data visualization, and web audits.
 
 ---
 
@@ -30,9 +30,6 @@ Example of using Group Policy Objects (GPOs) for software distribution, demonstr
 
 ### [entra-id-cloud-lab](https://github.com/nahobbs5/entra-id-cloud-lab)
 A hands-on lab environment built with Microsoft Entra ID (Azure AD) to explore identity and access management—covering SSO, MFA, and group-based administration.
-
-### [tech-support-toolbox](https://github.com/nahobbs5/tech-support-toolbox)
-A collection of PowerShell and Bash scripts to streamline common IT support tasks such as user access, printer issues, and system cleanup.
 
 ### [ncmc.net-web-stats](https://github.com/nahobbs5/ncmc.net-web-stats)
 An SEO and performance audit of a community music school’s website using Unlighthouse. Focused on accessibility, mobile performance, and semantic structure.
