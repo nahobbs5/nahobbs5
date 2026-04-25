@@ -6,7 +6,7 @@ Welcome! I'm Nathan, a technology professional with a background in web developm
 
 ## 🔧 About Me
 
-- 🧰 **IT Support & Systems** – Troubleshooting, software configuration, light scripting
+- 🧰 **IT Support & Systems** – Troubleshooting, software configuration
 - 🌐 **Web & SEO** – WordPress, HTML/CSS, Elementor, technical audits, analytics tools
 - 📊 **Data Visualization & Automation** – Flourish, PowerShell, Bash, content generation using LLMs
 - 📍 Based in Fredericksburg, VA | 🎓 B.S. Media Arts & Design (Web Development) from James Madison University
@@ -14,10 +14,13 @@ Welcome! I'm Nathan, a technology professional with a background in web developm
 
 ---
 
-## 📌 Featured Repositories
+## 📌 Featured Work
 
 ### [Kitchen Helper](https://github.com/nahobbs5/Kitchen-Helper)
 Cross-platform app prototype for kitchen tasks built with Expo, React Native, TypeScript, and Expo Router. Focuses on practical utilities including recipe scaling, substitutions, conversions, saved recipe browsing and editing, glossary/reference lookups, and cook timers. 
+
+### [Technical Documentation](https://nathanhobbsportfolio.com)
+A collection of SOPs and reference guides covering AI-assisted workflows, address label generation, and website update processes. View on my portfolio site.
 
 ### [Power BI Dashboard](https://github.com/nahobbs5/2025-North-American-Contract-Glaziers-Power-BI-Dashboard)
 An interactive business intelligence dashboard built in Microsoft Power BI, visualizing **USG**lass Magazine's annual rankings of the 50 largest contract glazing companies in North America.
@@ -55,7 +58,7 @@ Git & GitHub · Adobe Creative Suite · Project Management Tools · LLMs & autom
 ## 📫 Contact
 
 - **Email:** [nahobbs5@gmail.com](mailto:nahobbs5@gmail.com) 
-- **LinkedIn:** [https://linkedin.com/in/nathanahobbs](https://linkedin.com/in/nathanahobbs)  
+- **LinkedIn:** [https://www.linkedin.com/in/nathan-a-hobbs/](https://www.linkedin.com/in/nathan-a-hobbs/)  
 - **Portfolio:** [https://nathanhobbsportfolio.com/](https://nathanhobbsportfolio.com/)
 
 
