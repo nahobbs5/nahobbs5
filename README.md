@@ -16,14 +16,14 @@ Welcome! I'm Nathan, a technology professional with a background in web developm
 
 ## 📌 Featured Work
 
-### [Kitchen Helper](https://github.com/nahobbs5/Kitchen-Helper)
-Cross-platform app prototype for kitchen tasks built with Expo, React Native, TypeScript, and Expo Router. Focuses on practical utilities including recipe scaling, substitutions, conversions, saved recipe browsing and editing, glossary/reference lookups, and cook timers. 
-
 ### [Technical Documentation](https://nathanhobbsportfolio.com)
 A collection of SOPs and reference guides covering AI-assisted workflows, address label generation, and website update processes. View on my portfolio site.
 
 ### [Power BI Dashboard](https://github.com/nahobbs5/2025-North-American-Contract-Glaziers-Power-BI-Dashboard)
 An interactive business intelligence dashboard built in Microsoft Power BI, visualizing **USG**lass Magazine's annual rankings of the 50 largest contract glazing companies in North America.
+
+### [Kitchen Helper](https://github.com/nahobbs5/Kitchen-Helper)
+Cross-platform app prototype for kitchen tasks built with Expo, React Native, TypeScript, and Expo Router. Focuses on practical utilities including recipe scaling, substitutions, conversions, saved recipe browsing and editing, glossary/reference lookups, and cook timers.
 
 ### [azure-active-directory-demo](https://github.com/nahobbs5/AzureActiveDirectoryDemo)
 A step-by-step walkthrough for setting up an Active Directory environment in Microsoft Azure using virtual machines and a virtual network.
