@@ -34,7 +34,7 @@ Example of using Group Policy Objects (GPOs) for software distribution, demonstr
 ### [entra-id-cloud-lab](https://github.com/nahobbs5/entra-id-cloud-lab)
 A hands-on lab environment built with Microsoft Entra ID (Azure AD) to explore identity and access management—covering SSO, MFA, and group-based administration.
 
-### [ncmc.net-web-stats](https://github.com/nahobbs5/ncmc.net-web-stats)
+### [ncmc.net web stats](https://github.com/nahobbs5/ncmc.net-web-stats)
 An SEO and performance audit of a community music school’s website using Unlighthouse. Focused on accessibility, mobile performance, and semantic structure.
 
 ---
