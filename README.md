@@ -16,6 +16,9 @@ Welcome! I'm Nathan, a technology professional with a background in web developm
 
 ## 📌 Featured Work
 
+### [Adzuna Daily Job Email Digest](https://github.com/nahobbs5/adzuna-job-email-digest)
+A self-contained Google Apps Script that runs a rolling job search straight to your email.
+
 ### [Technical Documentation](https://nathanhobbsportfolio.com)
 A collection of SOPs and reference guides covering AI-assisted workflows, address label generation, and website update processes. View on my portfolio site.
 
